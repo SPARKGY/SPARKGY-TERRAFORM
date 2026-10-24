@@ -1,0 +1,17 @@
+{
+	"/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixcommsuite-prod/providers/Microsoft.Storage/storageAccounts/stjanusprod": {
+		"resource_id": "/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixcommsuite-prod/providers/Microsoft.Storage/storageAccounts/stjanusprod",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "storage_accounts_stjanusprod0"
+	},
+	"/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixcommsuite-prod/providers/Microsoft.Storage/storageAccounts/stjanusstaging": {
+		"resource_id": "/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixcommsuite-prod/providers/Microsoft.Storage/storageAccounts/stjanusstaging",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "storage_accounts_stjanusstaging0"
+	},
+	"/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixcommsuite-prod/providers/Microsoft.Storage/storageAccounts/stplanospidstage": {
+		"resource_id": "/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixcommsuite-prod/providers/Microsoft.Storage/storageAccounts/stplanospidstage",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "storage_accounts_stplanospidstage0"
+	}
+}

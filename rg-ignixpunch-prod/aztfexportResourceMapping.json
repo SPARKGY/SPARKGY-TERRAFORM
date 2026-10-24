@@ -1,0 +1,7 @@
+{
+	"/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixpunch-prod": {
+		"resource_id": "/subscriptions/dc7a59f3-0f26-449c-adb4-e822fd893336/resourceGroups/rg-ignixpunch-prod",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "resource_groups_rg_ignixpunch_prod0"
+	}
+}
